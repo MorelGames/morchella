@@ -1,0 +1,44 @@
+{
+  "Please enter your name.": "Por favor, escriba su nombre.",
+  "Yes, your name, please.": "Su nombre, por favor.",
+  "<strong>Warning</strong>: this game is sometimes unsafe for work. Okay, <em>often</em>.": "<strong>Advertencia</strong>: este juego este a veces <abbr title='Not Safe For Work : no está adaptado al trabajo o a la familia.'>NSFW</abbr>. Vale, <em>frecuentemente</em>.",
+
+  "Morels Against Humanity is not affiliated with Cards Against Humanity.": "Morels Against Humanity no está afiliada a Cards Against Humanity.",
+  "It is brought to you by {name}.": "Este juego está desarrollado por {name}.",
+
+  "This application is {open_source}.": "Esta aplicación es {open_source}.",
+  "open source, and published under a free licence": "de código abierto y se publica bajo una licencia libre",
+
+  "Cards are written by {cah} (published under CC BY-NC-SA) and {jah}.": "Las cartas son escritas por {cah} (publicadas bajo licencia CC BY-NC-SA) y {jah}.",
+  "others": "otros",
+
+  "If you like this game, {consider_buying}": "Si te gusta este juego, {consider_buying}",
+  "please consider buying it!": "¡por favor considera comprarlo!",
+  "These folks are cool.": "Estas personas valen la pena.",
+
+  "Yes! We created a game.": "El juego está listo.",
+  "You shall wait for other players to join.": "Esperarás a que otros jugadores se unan.",
+  "They should be here any minute now—that is, if you give them the invitation link.": "Deberían llegar en cualquier momento, si les das el enlace de la invitación.",
+  "Otherwise they'll have a tough time getting in.": "De lo contrario, les será difícil entrar.",
+
+  "Pick up some decks": "Elija paquetes de cartas",
+  "Studies suggest that card games are best played with cards. We packed them by theme. Sortof.": "Los estudios sugieren que los juegos de cartas se juegan mejor con cartas. Los empaquetamos por tema. Más o menos.",
+
+  "Decks": "Paquetes",
+
+  "Add or Remove Decks": "Cambiar los paquetes",
+  "Add or Remove Cards Decks": "Cambiar las barajas de cartas",
+  "{count} deck available | {count} decks available": "{count} paquete disponible | {count} paquetes disponibles",
+
+  "{black_cards_count} and {white_cards_count}": "{black_cards_count} y {white_cards_count}",
+  "{count} black card | {count} black cards": "{count} tarjeta negra | {count} tarjetas negras",
+  "{count} white card | {count} white cards": "{count} tarjeta blanca | {count} tarjetas blancas",
+  "{count} black | {count} black": "{count} negra | {count} negras",
+  "{count} white | {count} white": "{count} blanca | {count} blancas",
+
+  "Pick {count}": "Elige {count}",
+
+  "Base Set": "Juego básico",
+  "The First Expansion": "La primera extensión",
+  "Science Pack": "Ciencia"
+}

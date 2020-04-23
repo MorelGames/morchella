@@ -1,0 +1,52 @@
+{
+  "Please enter your name.": "Veuillez entrer votre nom.",
+  "Yes, your name, please.": "Votre nom, s'il vous plaît.",
+  "<strong>Warning</strong>: this game is sometimes unsafe for work. Okay, <em>often</em>.": "<strong>Attention</strong> : ce jeu est parfois <abbr title='Not Safe For Work : pas adapté au travail ou à la famille.'>NSFW</abbr>. D'accord, <em>souvent</em>.",
+
+  "Morels Against Humanity is not affiliated with Cards Against Humanity.": "Morels Against Humanity n'est pas affilié à Cards Against Humanity.",
+  "It is brought to you by {name}.": "Ce jeu est développé par {name}.",
+
+  "This application is {open_source}.": "Cette application est {open_source}.",
+  "open source, and published under a free licence": "open source, et publiée sous une licence libre",
+
+  "Cards are written by {cah} (published under CC BY-NC-SA) and {jah}.": "Les cartes sont écrites par {cah} (sous licence CC BY-NC-SA) et {jah}.",
+  "others": "d'autres",
+
+  "If you like this game, {consider_buying}": "Si vous appréciez ce jeu, {consider_buying}",
+  "please consider buying it!": "envisagez de l'acheter !",
+  "These folks are cool.": "Ces gens sont cool.",
+
+  "Yes! We created a game.": "C'est prêt, pour le meilleur et (surtout) le pire.",
+  "You shall wait for other players to join.": "Il ne vous reste plus qu'à patienter le temps que les autres joueurs arrivent.",
+  "They should be here any minute now—that is, if you give them the invitation link.": "Ça ne devrait pas trop tarder — si leur donnez le lien d'invitation.",
+  "Otherwise they'll have a tough time getting in.": "Sinon, il risque d'y avoir des difficultés pour entrer.",
+
+  "Pick up some decks": "Choisissez quelques paquets",
+  "Studies suggest that card games are best played with cards. We packed them by theme. Sortof.": "Des études suggèrent que les jeux de cartes sont mieux avec des cartes. On en a fait des paquets thématiques. Enfin, plus ou moins.",
+
+  "Decks": "Paquets",
+
+  "{black_cards_count} and {white_cards_count}": "{black_cards_count} et {white_cards_count}",
+  "{count} black card | {count} black cards": "{count} carte noire | {count} cartes noires",
+  "{count} white card | {count} white cards": "{count} carte blanche | {count} cartes blanches",
+  "{count} black | {count} black": "{count} noire | {count} noires",
+  "{count} white | {count} white": "{count} blanche | {count} blanches",
+
+  "Pick {count}": "Piocher {count}",
+
+  "Add or Remove Decks": "Modifier les paquets",
+  "Add or Remove Cards Decks": "Modifier les paquets de carte",
+  "{count} deck available | {count} decks available": "{count} paquet disponible | {count} paquets disponibles",
+  "Click on the decks below to add or remove them from you game.": "Cliquez sur les paquets ci-dessous pour les ajouter ou les retirer de votre jeu.",
+  "These ones are all in {lang}.": "Ceux-ci sont tous en {lang}.",
+  "Select all": "Tout sélectionner",
+  "Unselect all": "Tout désélectionner",
+
+  "English": "anglais",
+  "Français": "français",
+  "Español": "espagnol",
+
+  "Base Pack": "Jeu de base",
+  "The First Expansion": "La première extension",
+  "Science Pack": "Science"
+}
