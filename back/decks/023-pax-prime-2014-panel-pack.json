@@ -1,0 +1,31 @@
+{
+    "id": "pax-prime-2014-panel-pack",
+    "name": "PAX Prime 2014 Panel Pack",
+    "official": true,
+    "locale": "en",
+    "icon": "user-times",
+    "icon_pack": null,
+    "number": null,
+    "color": null,
+    "counts": {
+        "black": 5,
+        "white": 6
+    },
+    "cards": {
+        "black": [
+            "Buzzfeed presents: 10 pictures of _ that look like _.",
+            "During my first game of D&amp;D, I accidentally summoned _.",
+            "Bob Ross's little-known first show was called &quot;The Joy of _.&quot;",
+            "Like _, State Farm is there.",
+            "The Discovery Channel presents: _ week."
+        ],
+        "white": [
+            "A neck beard that is 10% cheese.",
+            "Pelvic sorcery.",
+            "Pooping as quietly as possible.",
+            "The beautiful sport of Turkish oil wrestling.",
+            "No survivors.",
+            "Go Fuck Yourself."
+        ]
+    }
+}

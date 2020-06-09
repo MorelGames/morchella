@@ -22,3 +22,6 @@ npm-debug.log
 yarn-error.log
 
 # End of https://www.gitignore.io/api/rust,vuejs
+
+# Excluded atm, will be published later
+scripts/cah*
